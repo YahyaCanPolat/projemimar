@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+.text{ position:relative;
+margin-top:-250px;
+float:right;
+margin-right:120px;
+color:#FFF;}
+
+.text1{ width:200px;
+height:50px; 
+position:relative;
+margin-top:-200px;
+float:right;
+margin-right:150px;
+color:#FFF;}
+.resim{ width:500px;
+height:300px;
+margin-left:400px;}
+
+.sag{float:left;
+margin-left:80px;
+margin-top:30px;}
+
+.galeri{ margin-left:200px;
+margin-right:25px;}
+
+.ekip{ float:left;
+margin-left:40px;}
+
+.on{ margin-left:500px;}
+
+
+.salata{ float:left;
+margin-left:35px;
+padding-left:80px;}
+
+.sil{ clear:both;}
+
+.bilgi{ margin-left:200px;
+float:left;
+margin-right:30px;}
+footer{ width:100%;
+height:50px;
+line-height:50px;
+text-align:center;
+margin-top:10px;
+color:#000;}
+
+i{ margin-right:10px;}
+
+
+
+
+
